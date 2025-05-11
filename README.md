@@ -1,0 +1,2 @@
+# CRM-PLATFORM
+customer segmentation
